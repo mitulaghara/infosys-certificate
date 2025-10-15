@@ -19,7 +19,7 @@ Welcome to my certifications repository! This collection represents my dedicatio
 - **[Problem Solving Using Computational Thinking](Problem%20Solving%20Using%20Computational%20Thinking/Problem%20Solving%20Using%20Computational%20Thinking.pdf)**  
   *University of Michigan via Coursera* | Issued: Aug 31, 2025
 
-- **[Design Thinking](Design%20Thinking/Design%20Thinking.pdf)**  
+- **[Design Thinking](Design%20Thinking/Design%20Thinking%Certificate.pdf)**  
   *Infosys Springboard* | Issued: Aug 8, 2025
 
 ## 🛠️ Skills Demonstrated
