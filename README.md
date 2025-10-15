@@ -8,7 +8,7 @@ Welcome to my certifications repository! This collection represents my dedicatio
 - **[An Introduction to Programming using Python](An%20Introduction%20to%20Programming%20using%20Python.pdf)**  
   *University of Leeds via Coursera* | Issued: Oct 5, 2025
 
-- **[Python Fundamentals](Python%20Fundamentals.pdf)**  
+- **[Python Fundamentals](Python%20Fundamentals/Python%20Fundamentals.pdf)**  
   *Infosys Springboard* | Issued: Oct 15, 2025
 
 ### Data Science with Python
